@@ -1,0 +1,7 @@
+Demo Video:
+https://youtu.be/aUoXxpNqmU4
+
+Project: AI Roadmap Generator Automation
+Tools: n8n, Airtable, Google AI
+
+

@@ -1,0 +1,10 @@
+Workflow Description – AI Roadmap Generator
+
+1. User submits form with name, email, phone, introduction, and selected skill.
+2. Webhook receives form data in n8n.
+3. Data is sent to Airtable via API and stored in database.
+4. Switch node checks selected skill (n8n, Zapier, Figma, LangChain).
+5. Based on skill, workflow routes to AI Agent node.
+6. AI agent generates structured learning roadmap using prompt.
+7. Generated roadmap is sent back to Airtable and updated in Roadmap field.
+8. Workflow completes automatically without manual intervention.
