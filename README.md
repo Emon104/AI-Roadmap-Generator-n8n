@@ -30,8 +30,7 @@ an AI agent generates a structured learning roadmap and automatically updates it
 6. Entire process is fully automated
 
 ## Demo Video
-Paste your Google Drive video link here
+https://youtu.be/aUoXxpNqmU4
 
 ## Files
-- workflow.json → Exported n8n workflow
 - screenshots → Project screenshots
