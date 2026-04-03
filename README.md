@@ -33,4 +33,16 @@ an AI agent generates a structured learning roadmap and automatically updates it
 https://youtu.be/aUoXxpNqmU4
 
 ## Files
-- screenshots → Project screenshots
+## Screenshots
+
+### n8n Workflow
+![Workflow](Full n8n Workflow.jpg)
+
+### Airtable Database
+![Airtable](Airtable.jpg)
+
+### Form Submission
+![Form](Form.jpg)
+
+
+
