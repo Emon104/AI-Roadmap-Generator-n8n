@@ -36,7 +36,7 @@ https://youtu.be/aUoXxpNqmU4
 ## Screenshots
 
 ### n8n Workflow
-![Workflow](Full n8n Workflow.jpg)
+![Workflow](Full_n8n_Workflow.jpg)
 
 ### Airtable Database
 ![Airtable](Airtable.jpg)
